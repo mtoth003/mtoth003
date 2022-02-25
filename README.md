@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Mike!
-<p align='center'>
+<div'center'>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mtoth003&show_icons=true&theme=radical)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoth003&layout=compact)](https://github.com/mtoth003/github-readme-stats)
-</p>
+</div>
 
 <!---
 mtoth003/mtoth003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
