@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Mike!
+<img width="100%" alt="header" src="https://photos.google.com/photo/AF1QipOmTI2n7dsV84373Hxytkj_od0g4yI1TrteTHh4">
+
 <hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mtoth003&show_icons=true&theme=github_dark&hide=issues,stars&bg_color=00000000&hide_border=true" width="auto" height="50%" alt="Mike's Github stats">
