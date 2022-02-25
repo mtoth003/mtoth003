@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mtoth003&show_icons=true&theme=github_dark)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoth003&layout=compact)](https://github.com/mtoth003/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoth003)](https://github.com/mtoth003/github-readme-stats)
 
 
 <!---
