@@ -7,8 +7,8 @@
 <hr>
   <h3>About Me</h3>
   <p>
-    I'm currently working on a chat app built with React, Firebase and Chat Engine. 🖥️ </br>
-    Next, I plan on learning how to integrate Google Maps using their API into React Apps. 🗺️ </br>
+    I'm currently learning testing libraries Jest & Cypress. 🧪</br>
+    Next, I'll be moving on to Typescript and Next.js 💻 </br>
     I'm also sutdying data structures and algorithims 🤯 </br>
     When I'm not coding, you can usually find me on a golf course, walking a trail with my dogs or playing video games 🎮 ⛳ 🐶 </br>
   </p>
