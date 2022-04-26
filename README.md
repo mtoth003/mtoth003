@@ -7,7 +7,7 @@
 <hr>
   <h3>About Me</h3>
   <p>
-    I'm currently learning testing libraries Jest & Cypress. 🧪</br>
+    I'm currently learning to test in React with Jest. 🧪</br>
     Next, I'll be moving on to Typescript and Next.js 💻 </br>
     I'm also sutdying data structures and algorithims 🤯 </br>
     When I'm not coding, you can usually find me on a golf course, walking a trail with my dogs or playing video games 🎮 ⛳ 🐶 </br>
